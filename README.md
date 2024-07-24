@@ -1,1 +1,2 @@
 # E-Ticaret
+print("merhaba")
